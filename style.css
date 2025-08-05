@@ -4,6 +4,9 @@ h1 {
 }
 
 img {
-    display: flex;
+    display: block;
     margin: 0 auto;
+    max-width: 85%;
+    height: auto;
 }
+
